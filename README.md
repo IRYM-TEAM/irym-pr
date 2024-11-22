@@ -1,8 +1,14 @@
-<h1 align="center">This is a portfolio built for irym team</h1>
 
-<h4>what is irym??</h4>
-<p>Team of experts specializing in crafting innovative solutions to complex business challenges.</p>
+# IRYM Portfolio
+
+This repository hosts the portfolio website for our talented team of developers.  It showcases our skills, experience, and passion for crafting innovative software solutions.
+
+## Features:
+
+* Individual Profiles: Learn about each team member's expertise, background, and contributions.
+* Project Showcases: Explore detailed descriptions and visuals of our completed projects.
+* Contact Information: Get in touch with us for potential collaborations and opportunities.
+
+Live Demo: (Link to the deployed portfolio website)
 
 
-<p>to contriubte in this project feel free to contact the team</p>
-Irym.business@gmail.com
